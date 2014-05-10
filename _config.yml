@@ -8,3 +8,6 @@ url: "blog.deepzero.tk"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# 
+encoding: utf-8
