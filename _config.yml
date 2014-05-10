@@ -1,3 +1,6 @@
+# 
+encoding: utf-8
+
 # Site settings
 title: 绝对零下 喜欢写程序
 email: xuebo.com.cn@gmail.com
@@ -9,5 +12,3 @@ url: "http://blog.deepzero.tk"
 markdown: kramdown
 permalink: pretty
 
-# 
-encoding: utf-8
