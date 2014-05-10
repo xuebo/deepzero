@@ -1,9 +1,8 @@
 # 
-
-#encoding: utf-8
+encoding: utf-8
 
 # Site settings
-# title: 绝对零下 喜欢写程序
+title: 绝对零下 喜欢写程序
 title: Learn
 email: xuebo.com.cn@gmail.com
 #description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
